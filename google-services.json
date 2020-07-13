@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "847530088211",
+    "firebase_url": "https://trackifymac.firebaseio.com",
+    "project_id": "trackifymac",
+    "storage_bucket": "trackifymac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847530088211:android:fa8961657d0d1e49",
+        "android_client_info": {
+          "package_name": "uwindsor.mac.trackify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847530088211-vm576l6l2l944ek76k3sgdl0kh1g03lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uwindsor.mac.trackify",
+            "certificate_hash": "a55590b020d77d6f5f846ebdd62ae329a8ecaa29"
+          }
+        },
+        {
+          "client_id": "847530088211-8d64e4r0pr5tn8lbtat2ano5316airfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7RY77wu2fHIHBo8NJRNNzngvF__2NfVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847530088211-8d64e4r0pr5tn8lbtat2ano5316airfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
